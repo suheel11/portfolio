@@ -1,0 +1,17 @@
+.Button {
+    background-color: rgba(10, 10, 10, 0.411);
+    border: none;
+    color:whitesmoke;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 12px;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+.Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+}

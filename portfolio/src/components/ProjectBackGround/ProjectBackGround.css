@@ -1,0 +1,6 @@
+.background{
+    background-image: url('../../images/projectBack.jpg');
+    width: 100%;
+    height: 500px;
+    border: solid 10px whitesmoke;
+}
